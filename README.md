@@ -12,7 +12,8 @@ Another one to familiarise myself with html tags, anchors and elements <br>
 ![Screenshot](https://github.com/omkumar40/root/blob/master/Scr3.JPG) <br>
 ![Screenshot](https://github.com/omkumar40/root/blob/master/Scr4.JPG) <br>
 ![Screenshot](https://github.com/omkumar40/root/blob/master/Scr5.JPG) <br>
-Lets meet in Day Two
+Lets meet on Day Two <br>
+[Connect me on linkedin](https://www.linkedin.com/in/omkumar40/
 
 
 
